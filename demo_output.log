@@ -1,0 +1,787 @@
+=== SLURM_JOB_ID: 45892 ===
+=== Hostname: turing ===
+=== Running Scripts ===
+Query and answer:  which is the most common use of opt-in e-mail marketing encouraging customer loyalty and repeat business
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  0  MMR-based Neighbor ids:  [5, 6, 3, 12, 2, 9]
+Score and reg score:  0.19304342567920685 0.10776159
+Query and answer:  which is the most common use of opt-in e-mail marketing newsletters
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  1  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.35458022356033325 0.28360486
+Query and answer:  which is the most common use of opt-in e-mail marketing direct marketing
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  2  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 9]
+Score and reg score:  0.20674285292625427 0.12747522
+Query and answer:  which is the most common use of opt-in e-mail marketing "pre-approved" credit card applications
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  3  MMR-based Neighbor ids:  [0, 5, 6, 12, 2, 10]
+Score and reg score:  0.03245849162340164 -0.018708728
+Query and answer:  which is the most common use of opt-in e-mail marketing affiliate marketing
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  4  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.22103890776634216 0.14927626
+Query and answer:  which is the most common use of opt-in e-mail marketing direct marketing
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  5  MMR-based Neighbor ids:  [0, 6, 3, 12, 2, 14]
+Score and reg score:  0.20674285292625427 0.12679085
+Query and answer:  which is the most common use of opt-in e-mail marketing newsletters
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  6  MMR-based Neighbor ids:  [0, 5, 3, 12, 2, 15]
+Score and reg score:  0.35458022356033325 0.27782783
+Query and answer:  which is the most common use of opt-in e-mail marketing direct marketing
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  7  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.20674285292625427 0.13017274
+Query and answer:  which is the most common use of opt-in e-mail marketing appointment reminders
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  8  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.12786787748336792 0.06657471
+Query and answer:  which is the most common use of opt-in e-mail marketing tracking
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  9  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.08339110016822815 0.034474183
+Query and answer:  which is the most common use of opt-in e-mail marketing commercial
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  10  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.20263421535491943 0.12146285
+Query and answer:  which is the most common use of opt-in e-mail marketing newsletters
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  11  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.35458022356033325 0.2795006
+Query and answer:  which is the most common use of opt-in e-mail marketing commercial e-mail
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  12  MMR-based Neighbor ids:  [0, 5, 6, 3, 2, 9]
+Score and reg score:  0.2980690002441406 0.2257491
+Query and answer:  which is the most common use of opt-in e-mail marketing subscription
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  13  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.21048080921173096 0.14560448
+Query and answer:  which is the most common use of opt-in e-mail marketing contact scraping
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  14  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.1325027197599411 0.075965434
+Query and answer:  which is the most common use of opt-in e-mail marketing spy pixels
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  15  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.02321014553308487 -0.0053852443
+Query and answer:  which is the most common use of opt-in e-mail marketing newsletters
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  16  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.35458022356033325 0.27788898
+Query and answer:  which is the most common use of opt-in e-mail marketing blocklist
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  17  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.06224100664258003 0.03294888
+Query and answer:  which is the most common use of opt-in e-mail marketing unsubscribe
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  18  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.15190841257572174 0.09678189
+Query and answer:  which is the most common use of opt-in e-mail marketing email spam
+Gold answers:  ["a newsletter sent to an advertising firm 's customers"]
+Doc id itself:  19  MMR-based Neighbor ids:  [0, 5, 6, 3, 12, 2]
+Score and reg score:  0.20424020290374756 0.12418582
+Query and answer:  how i.met your mother who is the mother tracy mosby
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  0  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  0.5591503381729126 0.4743041
+Query and answer:  how i.met your mother who is the mother cristin milioti
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  1  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  0.07383163273334503 -0.011981308
+Query and answer:  how i.met your mother who is the mother penny
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  2  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  0.1425846368074417 0.04510717
+Query and answer:  how i.met your mother who is the mother lily aldrin
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  3  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  0.10888400673866272 0.014770374
+Query and answer:  how i.met your mother who is the mother tracy mcconnell
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  4  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  1.0000000596046448 0.9009871
+Query and answer:  how i.met your mother who is the mother tracy mcconnell
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  5  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  1.0000000596046448 0.9008642
+Query and answer:  how i.met your mother who is the mother robin scherbatsky
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  6  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  0.1605636477470398 0.066395074
+Query and answer:  how i.met your mother who is the mother tracy mcconnell
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  7  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  1.0000000596046448 0.904135
+Query and answer:  how i.met your mother who is the mother kristin milioti
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  8  MMR-based Neighbor ids:  [16, 19, 15, 0, 10, 2]
+Score and reg score:  0.1281755566596985 0.03936512
+Query and answer:  how i.met your mother who is the mother tracy mcconnell
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  9  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  1.0000000596046448 0.9045703
+Query and answer:  how i.met your mother who is the mother tracy mcconnell
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  10  MMR-based Neighbor ids:  [8, 15, 19, 18, 16, 5]
+Score and reg score:  1.0000000596046448 0.9010179
+Query and answer:  how i.met your mother who is the mother tracy mcconnell
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  11  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  1.0000000596046448 0.91462195
+Query and answer:  how i.met your mother who is the mother the sixth season of the american television comedy series how i met your mother premiered on september 20, 2010, and concluded on may 16, 2011, on cbs.
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  12  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  0.021669525653123856 -0.053569216
+Query and answer:  how i.met your mother who is the mother 
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  13  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  0.07744345813989639 -0.009265266
+Query and answer:  how i.met your mother who is the mother alyson hannigan
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  14  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  0.1764066219329834 0.0896032
+Query and answer:  how i.met your mother who is the mother tracy mcconnell
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  15  MMR-based Neighbor ids:  [8, 19, 18, 10, 16, 2]
+Score and reg score:  1.0000000596046448 0.9096952
+Query and answer:  how i.met your mother who is the mother cristin milioti
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  16  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 2]
+Score and reg score:  0.07383163273334503 -0.011636063
+Query and answer:  how i.met your mother who is the mother jenkins
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  17  MMR-based Neighbor ids:  [8, 15, 19, 18, 10, 16]
+Score and reg score:  0.09164437651634216 0.015788976
+Query and answer:  how i.met your mother who is the mother tracy mcconnell
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  18  MMR-based Neighbor ids:  [8, 15, 19, 10, 16, 2]
+Score and reg score:  1.0000000596046448 0.9183058
+Query and answer:  how i.met your mother who is the mother sophie
+Gold answers:  ['Tracy McConnell']
+Doc id itself:  19  MMR-based Neighbor ids:  [8, 15, 18, 10, 16, 2]
+Score and reg score:  0.10051409155130386 0.014941819
+Query and answer:  what type of fertilisation takes place in humans seminal plasma) the use of prp was associated with a higher pregnancy rate.
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  0  MMR-based Neighbor ids:  [2, 1, 11, 16, 6, 7]
+Score and reg score:  0.23544152256320505 0.20155428
+Query and answer:  what type of fertilisation takes place in humans in vitro
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  1  MMR-based Neighbor ids:  [2, 11, 0, 16, 7, 17]
+Score and reg score:  0.20768224263703952 0.1776025
+Query and answer:  what type of fertilisation takes place in humans human manure
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  2  MMR-based Neighbor ids:  [1, 11, 16, 17, 0, 7]
+Score and reg score:  0.04171978309750557 0.015237898
+Query and answer:  what type of fertilisation takes place in humans gamete
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  3  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.0028100237250328064 -0.013705779
+Query and answer:  what type of fertilisation takes place in humans gamete
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  4  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.0028100237250328064 -0.009767821
+Query and answer:  what type of fertilisation takes place in humans intrasexual
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  5  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.10639144480228424 0.08094168
+Query and answer:  what type of fertilisation takes place in humans natural
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  6  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  -0.023477280512452126 -0.040315077
+Query and answer:  what type of fertilisation takes place in humans non-reproductive
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  7  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 17]
+Score and reg score:  0.24273888766765594 0.20974058
+Query and answer:  what type of fertilisation takes place in humans ovovivipary
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  8  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.03677753359079361 0.010519037
+Query and answer:  what type of fertilisation takes place in humans asexual
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  9  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.12006177008152008 0.10446712
+Query and answer:  what type of fertilisation takes place in humans anamniotic
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  10  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.10717309266328812 0.08019954
+Query and answer:  what type of fertilisation takes place in humans two y chromosomes
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  11  MMR-based Neighbor ids:  [2, 1, 7, 16, 0, 3]
+Score and reg score:  0.07819429039955139 0.04101934
+Query and answer:  what type of fertilisation takes place in humans intra-sexual
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  12  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.12423551082611084 0.10044757
+Query and answer:  what type of fertilisation takes place in humans sperm fertilizes the egg
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  13  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.3471184696288819 0.31941321
+Query and answer:  what type of fertilisation takes place in humans gestational
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  14  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.11478602886199951 0.09000068
+Query and answer:  what type of fertilisation takes place in humans journal of environmental ethics was founded in 1986.
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  15  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  -0.027883270736595595 -0.034719244
+Query and answer:  what type of fertilisation takes place in humans swim
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  16  MMR-based Neighbor ids:  [2, 1, 11, 0, 7, 17]
+Score and reg score:  0.029396459460258484 -0.0023658015
+Query and answer:  what type of fertilisation takes place in humans iron fertilization
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  17  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.26155717206257645 0.23508865
+Query and answer:  what type of fertilisation takes place in humans asexual
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  18  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.12006177008152008 0.09792209
+Query and answer:  what type of fertilisation takes place in humans asexual
+Gold answers:  ["<P> The process of fertilization involves a sperm fusing with an ovum . The most common sequence begins with ejaculation during copulation , follows with ovulation , and finishes with fertilization . Various exceptions to this sequence are possible , including artificial insemination , in vitro fertilization , external ejaculation without copulation , or copulation shortly after ovulation . Upon encountering the secondary oocyte , the acrosome of the sperm produces enzymes which allow it to burrow through the outer jelly coat of the egg . The sperm plasma then fuses with the egg 's plasma membrane , the sperm head disconnects from its flagellum and the egg travels down the Fallopian tube to reach the uterus . </P>"]
+Doc id itself:  19  MMR-based Neighbor ids:  [2, 1, 11, 16, 0, 7]
+Score and reg score:  0.12006177008152008 0.098278515
+Query and answer:  who had the most wins in the nfl new england patriots quarterback tom brady
+Gold answers:  ['Tom Brady']
+Doc id itself:  0  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.6904905438423157 0.6022505
+Query and answer:  who had the most wins in the nfl green bay packers
+Gold answers:  ['Tom Brady']
+Doc id itself:  1  MMR-based Neighbor ids:  [8, 5, 9, 14, 3, 6]
+Score and reg score:  0.2353331744670868 0.13960439
+Query and answer:  who had the most wins in the nfl the teams with the worst win–loss records receive the earliest picks
+Gold answers:  ['Tom Brady']
+Doc id itself:  2  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.08998629450798035 0.025693078
+Query and answer:  who had the most wins in the nfl thurman thomas
+Gold answers:  ['Tom Brady']
+Doc id itself:  3  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 18]
+Score and reg score:  0.22740156948566437 0.1444337
+Query and answer:  who had the most wins in the nfl the green bay packers
+Gold answers:  ['Tom Brady']
+Doc id itself:  4  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.2282899022102356 0.13194874
+Query and answer:  who had the most wins in the nfl linebackers
+Gold answers:  ['Tom Brady']
+Doc id itself:  5  MMR-based Neighbor ids:  [1, 9, 8, 0, 14, 18]
+Score and reg score:  0.19789056479930878 0.1175655
+Query and answer:  who had the most wins in the nfl a total of 20 franchises, including teams that have relocated to another city or changed their name, have won the super bowl
+Gold answers:  ['Tom Brady']
+Doc id itself:  6  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.06292140483856201 9.945035e-05
+Query and answer:  who had the most wins in the nfl all playoff teams in both conferences won at least 10 games, the first time since 2012 and the first time since the nfl playoffs expanded to a 14-
+Gold answers:  ['Tom Brady']
+Doc id itself:  7  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.0022796746343374252 -0.04530147
+Query and answer:  who had the most wins in the nfl tom brady
+Gold answers:  ['Tom Brady']
+Doc id itself:  8  MMR-based Neighbor ids:  [1, 5, 9, 6, 3, 14]
+Score and reg score:  1.0 0.90302193
+Query and answer:  who had the most wins in the nfl brady
+Gold answers:  ['Tom Brady']
+Doc id itself:  9  MMR-based Neighbor ids:  [1, 5, 8, 10, 14, 3]
+Score and reg score:  0.7842913468678792 0.6994859
+Query and answer:  who had the most wins in the nfl belichick
+Gold answers:  ['Tom Brady']
+Doc id itself:  10  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.3111048936843872 0.2260868
+Query and answer:  who had the most wins in the nfl nfl teams to sign players, and the league eventually settled on the current nfl record of 59 wins and 0 losses.
+Gold answers:  ['Tom Brady']
+Doc id itself:  11  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.14377543330192566 0.07440522
+Query and answer:  who had the most wins in the nfl new york city
+Gold answers:  ['Tom Brady']
+Doc id itself:  12  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.08504076302051544 0.028626878
+Query and answer:  who had the most wins in the nfl philadelphia
+Gold answers:  ['Tom Brady']
+Doc id itself:  13  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.10486669838428497 0.039602444
+Query and answer:  who had the most wins in the nfl the green bay packers
+Gold answers:  ['Tom Brady']
+Doc id itself:  14  MMR-based Neighbor ids:  [1, 5, 9, 8, 6, 3]
+Score and reg score:  0.2282899022102356 0.13408987
+Query and answer:  who had the most wins in the nfl the raiders
+Gold answers:  ['Tom Brady']
+Doc id itself:  15  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.21861957013607025 0.1421156
+Query and answer:  who had the most wins in the nfl the new england patriots
+Gold answers:  ['Tom Brady']
+Doc id itself:  16  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.3201349973678589 0.2372362
+Query and answer:  who had the most wins in the nfl answer is the indianapolis 500
+Gold answers:  ['Tom Brady']
+Doc id itself:  17  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.14855049550533295 0.105358236
+Query and answer:  who had the most wins in the nfl the jacksonville jaguars
+Gold answers:  ['Tom Brady']
+Doc id itself:  18  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.21486796438694 0.13920812
+Query and answer:  who had the most wins in the nfl baltimore ravens
+Gold answers:  ['Tom Brady']
+Doc id itself:  19  MMR-based Neighbor ids:  [1, 5, 9, 8, 14, 3]
+Score and reg score:  0.2038343846797943 0.12533832
+Query and answer:  who played mantis guardians of the galaxy 2 pom klementieff
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  0  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  1.0 0.74344236
+Query and answer:  who played mantis guardians of the galaxy 2 pom klementieff
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  1  MMR-based Neighbor ids:  [5, 6, 14, 9, 4, 18]
+Score and reg score:  1.0 0.80014765
+Query and answer:  who played mantis guardians of the galaxy 2 pom klementieff
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  2  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  1.0 0.7451336
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  3  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.06371898
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  4  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 18]
+Score and reg score:  0.12968812882900238 0.046884704
+Query and answer:  who played mantis guardians of the galaxy 2 pom alexandra klementieff
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  5  MMR-based Neighbor ids:  [1, 6, 14, 9, 4, 18]
+Score and reg score:  0.7524254560470581 0.5753495
+Query and answer:  who played mantis guardians of the galaxy 2 karen gillan
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  6  MMR-based Neighbor ids:  [1, 5, 0, 14, 9, 4]
+Score and reg score:  0.09832032024860382 0.02184822
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  7  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.05673922
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  8  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.047290683
+Query and answer:  who played mantis guardians of the galaxy 2 djimon hounsou
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  9  MMR-based Neighbor ids:  [1, 6, 5, 14, 4, 18]
+Score and reg score:  0.1327955573797226 0.046441123
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  10  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.06127096
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  11  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.057649557
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  12  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.063480675
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  13  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.07399247
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  14  MMR-based Neighbor ids:  [1, 6, 5, 9, 18, 4]
+Score and reg score:  0.12968812882900238 0.050427884
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  15  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.06110865
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  16  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.05855646
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  17  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.060834616
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  18  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.061136104
+Query and answer:  who played mantis guardians of the galaxy 2 paul bettany
+Gold answers:  ['Pom Klementieff']
+Doc id itself:  19  MMR-based Neighbor ids:  [1, 6, 5, 14, 9, 4]
+Score and reg score:  0.12968812882900238 0.06295501
+Query and answer:  what indian tribe did the acadians form friendships and alliances with wabanaki confederacy
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  0  MMR-based Neighbor ids:  [3, 6, 2, 8, 13, 9]
+Score and reg score:  0.07600747793912888 0.02732908
+Query and answer:  what indian tribe did the acadians form friendships and alliances with mi'kmaq
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  1  MMR-based Neighbor ids:  [0, 3, 6, 8, 2, 13]
+Score and reg score:  0.07746061313468798 0.041832387
+Query and answer:  what indian tribe did the acadians form friendships and alliances with mi'kmaq
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  2  MMR-based Neighbor ids:  [0, 3, 6, 8, 13, 7]
+Score and reg score:  0.07746061313468798 0.03503531
+Query and answer:  what indian tribe did the acadians form friendships and alliances with wabanaki confederacy
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  3  MMR-based Neighbor ids:  [0, 8, 6, 2, 13, 7]
+Score and reg score:  0.07600747793912888 0.032915875
+Query and answer:  what indian tribe did the acadians form friendships and alliances with french-speaking population of quebec, approximately 5% were acadians.
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  4  MMR-based Neighbor ids:  [0, 3, 6, 8, 2, 13]
+Score and reg score:  0.22103013197580973 0.18686543
+Query and answer:  what indian tribe did the acadians form friendships and alliances with mi'kmaq
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  5  MMR-based Neighbor ids:  [0, 3, 6, 8, 2, 13]
+Score and reg score:  0.07746061313468798 0.027690038
+Query and answer:  what indian tribe did the acadians form friendships and alliances with creole
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  6  MMR-based Neighbor ids:  [0, 3, 8, 2, 13, 7]
+Score and reg score:  0.06545848399400711 0.03378211
+Query and answer:  what indian tribe did the acadians form friendships and alliances with mi'kmaq
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  7  MMR-based Neighbor ids:  [0, 3, 6, 8, 2, 13]
+Score and reg score:  0.07746061313468798 0.027847823
+Query and answer:  what indian tribe did the acadians form friendships and alliances with métis
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  8  MMR-based Neighbor ids:  [0, 3, 6, 2, 13, 7]
+Score and reg score:  0.0643167570233345 0.030695396
+Query and answer:  what indian tribe did the acadians form friendships and alliances with the acadians
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  9  MMR-based Neighbor ids:  [0, 3, 6, 8, 2, 13]
+Score and reg score:  0.2117535024881363 0.16765353
+Query and answer:  what indian tribe did the acadians form friendships and alliances with iroquois
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  10  MMR-based Neighbor ids:  [0, 3, 6, 8, 2, 13]
+Score and reg score:  0.09669718146324158 0.06408374
+Query and answer:  what indian tribe did the acadians form friendships and alliances with french
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  11  MMR-based Neighbor ids:  [0, 3, 6, 8, 2, 13]
+Score and reg score:  0.0758867226870714 0.043518968
+Query and answer:  what indian tribe did the acadians form friendships and alliances with the relationship between france and the united states was historically important in the latter's independence from the united kingdom, and continues to be strong into the present day.
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  12  MMR-based Neighbor ids:  [0, 3, 6, 8, 2, 13]
+Score and reg score:  0.0917523753311899 0.056550156
+Query and answer:  what indian tribe did the acadians form friendships and alliances with iroquois
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  13  MMR-based Neighbor ids:  [0, 3, 6, 8, 2, 7]
+Score and reg score:  0.09669718146324158 0.058666676
+Query and answer:  what indian tribe did the acadians form friendships and alliances with iroquois
+Gold answers:  ["<P> The survival of the Acadian settlements was based on successful cooperation with the Indigenous peoples of the region . In the early years of Acadian settlement , this included a small number of recorded marriages between Acadian settlers and Indigenous women . Some records have survived showing marriages between Acadian settlers and Indigenous women in formal Roman Catholic rites , for example , the marriage of Charles La Tour to a Mi'kmaw woman in 1626 . There were also reported instances of Acadian settlers marrying Indigenous spouses according to Mi'kmaq rites , and subsequently living in Mi'kmaq communities . Many settlers also brought French wives with them to Acadia , such as La Tour 's second wife , Françoise - Marie Jacquelin , who joined him in Acadia in 1640 . </P>"]
+Doc id itself:  14  MMR-based Neighbor ids:  [0, 3, 6, 8, 2, 13]
+Score and reg score:  0.09669718146324158 0.0733581
+Query and answer:  who is deputy cm of j and k surinder choudhary
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  0  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.09320076555013657 0.028097194
+Query and answer:  who is deputy cm of j and k satish sharma
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  1  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.18644559383392334 0.10863009
+Query and answer:  who is deputy cm of j and k pushpasreevani pamula
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  2  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.03536156564950943 -0.010667333
+Query and answer:  who is deputy cm of j and k omar abdullah
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  3  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.10455985367298126 0.04843333
+Query and answer:  who is deputy cm of j and k govind karjol
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  4  MMR-based Neighbor ids:  [11, 13, 16, 18, 12, 17]
+Score and reg score:  0.2114119529724121 0.12963067
+Query and answer:  who is deputy cm of j and k edappadi k. palaniswami
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  5  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.10168140381574631 0.04141961
+Query and answer:  who is deputy cm of j and k nitish kumar
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  6  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.13982567191123962 0.06625576
+Query and answer:  who is deputy cm of j and k sakina masood itoo
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  7  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 0]
+Score and reg score:  0.02741897478699684 -0.018246759
+Query and answer:  who is deputy cm of j and k udhayanidhi
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  8  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.1634620726108551 0.08842642
+Query and answer:  who is deputy cm of j and k siddaramaiah
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  9  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.1737443059682846 0.094864406
+Query and answer:  who is deputy cm of j and k mehbooba mufti
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  10  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.08568881452083588 0.02061196
+Query and answer:  who is deputy cm of j and k kavinder gupta
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  11  MMR-based Neighbor ids:  [13, 16, 18, 12, 4, 7]
+Score and reg score:  0.15726301074028015 0.07965796
+Query and answer:  who is deputy cm of j and k shesh paul vaid
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  12  MMR-based Neighbor ids:  [11, 4, 13, 18, 7, 0]
+Score and reg score:  0.039786454290151596 0.0010991115
+Query and answer:  who is deputy cm of j and k javed ahmed rana
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  13  MMR-based Neighbor ids:  [11, 4, 12, 18, 7, 0]
+Score and reg score:  0.2029571384191513 0.12689319
+Query and answer:  who is deputy cm of j and k kalvakuntla chandrashekar rao
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  14  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.21184852719306946 0.13714974
+Query and answer:  who is deputy cm of j and k nirmal kumar singh
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  15  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.20190760493278503 0.12121957
+Query and answer:  who is deputy cm of j and k thiru. shiv das meena
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  16  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.041577428579330444 -0.0074458346
+Query and answer:  who is deputy cm of j and k ramaiah ashoka
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  17  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.17782865464687347 0.095233776
+Query and answer:  who is deputy cm of j and k mohammed mahmood ali
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  18  MMR-based Neighbor ids:  [11, 4, 13, 12, 7, 0]
+Score and reg score:  0.09682059288024902 0.033162557
+Query and answer:  who is deputy cm of j and k j.s. kataria
+Gold answers:  ['<Table> <Tr> <Th_colspan="2"> Deputy Chief Minister of Jammu and Kashmir </Th> </Tr> <Tr> <Td_colspan="2"> Incumbent Vacant since 20 June 2018 </Td> </Tr> <Tr> <Th> Appointer </Th> <Td> Governor of Jammu and Kashmir </Td> </Tr> <Tr> <Th> Inaugural holder </Th> <Td> Bakshi Ghulam Mohammad ( as Deputy Prime Minister ) </Td> </Tr> <Tr> <Th> Formation </Th> <Td> 5 March 1948 </Td> </Tr> </Table>']
+Doc id itself:  19  MMR-based Neighbor ids:  [11, 4, 13, 18, 12, 7]
+Score and reg score:  0.12938007712364197 0.08366025
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by yes
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  0  MMR-based Neighbor ids:  [2, 1, 4, 11, 12, 15]
+Score and reg score:  0.03140110895037651 0.008171786
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by 
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  1  MMR-based Neighbor ids:  [0, 5, 2, 11, 4, 12]
+Score and reg score:  0.030894355848431587 0.0024608038
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by in the late 1950s.
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  2  MMR-based Neighbor ids:  [0, 1, 11, 4, 12, 15]
+Score and reg score:  0.011202361434698105 -0.009661508
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by 
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  3  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.030894355848431587 0.008598577
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by 20th century
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  4  MMR-based Neighbor ids:  [0, 1, 2, 11, 8, 15]
+Score and reg score:  0.01379651390016079 -0.008822762
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by wildest dreams", swift's record label, big machine records, announced that it would release the song on itunes on august 31, 2019.
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  5  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.06435948610305786 0.037759736
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by unanswerable
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  6  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.04747675731778145 0.03553671
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by 
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  7  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.030894355848431587 0.0068313666
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by 
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  8  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.030894355848431587 -0.0016866215
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by 
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  9  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.030894355848431587 0.009415463
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by 
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  10  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.030894355848431587 0.009030459
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by no
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  11  MMR-based Neighbor ids:  [0, 1, 2, 4, 12, 15]
+Score and reg score:  0.010578364133834839 -0.009371165
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by 2024
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  12  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 5]
+Score and reg score:  -0.003891727887094021 -0.026167044
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by no
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  13  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.010578364133834839 -0.011116615
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by 
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  14  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.030894355848431587 0.010336754
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by no
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  15  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.010578364133834839 0.0067858477
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by qanon's message by claiming that the movement was a "cult" and a "satanic cult".
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  16  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.14204807292956573 0.13054743
+Query and answer:  the nashville sound brought a polished and cosmopolitan sound to country music by 
+Gold answers:  ['the use of lush string arrangements with a real orchestra and often , background vocals provided by a choir']
+Doc id itself:  17  MMR-based Neighbor ids:  [0, 1, 2, 11, 4, 12]
+Score and reg score:  0.030894355848431587 0.023156783
+Query and answer:  what channel is the premier league on in france sky
+Gold answers:  ['SFR Sport']
+Doc id itself:  0  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 9]
+Score and reg score:  0.11587277054786682 0.05024583
+Query and answer:  what channel is the premier league on in france unanswerable
+Gold answers:  ['SFR Sport']
+Doc id itself:  1  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.12020556628704071 0.06480393
+Query and answer:  what channel is the premier league on in france premier league
+Gold answers:  ['SFR Sport']
+Doc id itself:  2  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.14480310678482056 0.0902116
+Query and answer:  what channel is the premier league on in france ligue 1
+Gold answers:  ['SFR Sport']
+Doc id itself:  3  MMR-based Neighbor ids:  [14, 16, 4, 0, 18, 9]
+Score and reg score:  0.132696270942688 0.06639831
+Query and answer:  what channel is the premier league on in france première ligue canadienne
+Gold answers:  ['SFR Sport']
+Doc id itself:  4  MMR-based Neighbor ids:  [3, 14, 16, 18, 0, 9]
+Score and reg score:  0.07187327742576599 0.028502274
+Query and answer:  what channel is the premier league on in france unanswerable
+Gold answers:  ['SFR Sport']
+Doc id itself:  5  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.12020556628704071 0.06683732
+Query and answer:  what channel is the premier league on in france 
+Gold answers:  ['SFR Sport']
+Doc id itself:  6  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.12132894992828369 0.06690905
+Query and answer:  what channel is the premier league on in france bein sports
+Gold answers:  ['SFR Sport']
+Doc id itself:  7  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.21822349727153778 0.16080125
+Query and answer:  what channel is the premier league on in france espn
+Gold answers:  ['SFR Sport']
+Doc id itself:  8  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.14878810942173004 0.09457163
+Query and answer:  what channel is the premier league on in france bein sports
+Gold answers:  ['SFR Sport']
+Doc id itself:  9  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.21822349727153778 0.1551394
+Query and answer:  what channel is the premier league on in france france tnt
+Gold answers:  ['SFR Sport']
+Doc id itself:  10  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.11979778856039047 0.06650223
+Query and answer:  what channel is the premier league on in france ten times
+Gold answers:  ['SFR Sport']
+Doc id itself:  11  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.07549045979976654 0.035226993
+Query and answer:  what channel is the premier league on in france tf1
+Gold answers:  ['SFR Sport']
+Doc id itself:  12  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.14454032480716705 0.092143215
+Query and answer:  what channel is the premier league on in france eurosport
+Gold answers:  ['SFR Sport']
+Doc id itself:  13  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.07487277686595917 0.026785072
+Query and answer:  what channel is the premier league on in france sky sports
+Gold answers:  ['SFR Sport']
+Doc id itself:  14  MMR-based Neighbor ids:  [3, 6, 16, 18, 4, 0]
+Score and reg score:  0.2207993119955063 0.15543379
+Query and answer:  what channel is the premier league on in france eurosport
+Gold answers:  ['SFR Sport']
+Doc id itself:  15  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.07487277686595917 0.028248638
+Query and answer:  what channel is the premier league on in france solitary confinement
+Gold answers:  ['SFR Sport']
+Doc id itself:  16  MMR-based Neighbor ids:  [3, 14, 11, 4, 18, 0]
+Score and reg score:  0.04783209413290024 0.011771828
+Query and answer:  what channel is the premier league on in france tf1
+Gold answers:  ['SFR Sport']
+Doc id itself:  17  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.14454032480716705 0.088067725
+Query and answer:  what channel is the premier league on in france ligue 1
+Gold answers:  ['SFR Sport']
+Doc id itself:  18  MMR-based Neighbor ids:  [3, 14, 16, 4, 0, 9]
+Score and reg score:  0.132696270942688 0.07402235
+Query and answer:  what channel is the premier league on in france dazn
+Gold answers:  ['SFR Sport']
+Doc id itself:  19  MMR-based Neighbor ids:  [3, 14, 16, 4, 18, 0]
+Score and reg score:  0.11431209743022919 0.059813026
+Query and answer:  what is the use of jdk in java java class library
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  0  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 2]
+Score and reg score:  0.20920027843397906 0.11682414
+Query and answer:  what is the use of jdk in java java development kit
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  1  MMR-based Neighbor ids:  [10, 3, 11, 0, 2, 18]
+Score and reg score:  0.35932028446442044 0.24071722
+Query and answer:  what is the use of jdk in java java virtual machine
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  2  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.232456744226635 0.12850556
+Query and answer:  what is the use of jdk in java java development kit
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  3  MMR-based Neighbor ids:  [1, 10, 11, 18, 0, 2]
+Score and reg score:  0.35932028446442044 0.23111452
+Query and answer:  what is the use of jdk in java java virtual machine
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  4  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.232456744226635 0.12801999
+Query and answer:  what is the use of jdk in java programming language apis
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  5  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.15526814758777618 0.08304468
+Query and answer:  what is the use of jdk in java creating and delivering desktop applications
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  6  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.11902359923144348 0.053669255
+Query and answer:  what is the use of jdk in java api for providing a graphical user interface (gui) for java programs
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  7  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.2220216768403207 0.13097748
+Query and answer:  what is the use of jdk in java unanswerable
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  8  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  -0.016217924654483795 -0.054700527
+Query and answer:  what is the use of jdk in java libraries
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  9  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.11002816259860992 0.047459032
+Query and answer:  what is the use of jdk in java the java syntax has been gradually extended in the course of numerous major jdk releases
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  10  MMR-based Neighbor ids:  [1, 11, 0, 2, 3, 18]
+Score and reg score:  0.3828287945957634 0.25834462
+Query and answer:  what is the use of jdk in java programming framework
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  11  MMR-based Neighbor ids:  [1, 10, 18, 3, 0, 2]
+Score and reg score:  0.11855600029230118 0.042561
+Query and answer:  what is the use of jdk in java tools that add statements to the java source code and require its recompilation
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  12  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.28302844152564094 0.18846136
+Query and answer:  what is the use of jdk in java java virtual machine
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  13  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.232456744226635 0.13431777
+Query and answer:  what is the use of jdk in java java virtual machine
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  14  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.232456744226635 0.13986395
+Query and answer:  what is the use of jdk in java unanswerable
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  15  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  -0.016217924654483795 -0.04039829
+Query and answer:  what is the use of jdk in java runtime library
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  16  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.1416950225830078 0.090734825
+Query and answer:  what is the use of jdk in java software component
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  17  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.17112817897878843 0.09964048
+Query and answer:  what is the use of jdk in java java code and associated resources
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  18  MMR-based Neighbor ids:  [1, 10, 11, 0, 3, 2]
+Score and reg score:  0.22910668156227143 0.13692546
+Query and answer:  what is the use of jdk in java java development kit
+Gold answers:  ['<P> The Java Development Kit ( JDK ) is an implementation of either one of the Java Platform , Standard Edition , Java Platform , Enterprise Edition , or Java Platform , Micro Edition platforms released by Oracle Corporation in the form of a binary product aimed at Java developers on Solaris , Linux , macOS or Windows . The JDK includes a private JVM and a few other resources to finish the development of a Java Application . Since the introduction of the Java platform , it has been by far the most widely used Software Development Kit ( SDK ) . On 17 November 2006 , Sun announced that they would release it under the GNU General Public License ( GPL ) , thus making it free software . This happened in large part on 8 May 2007 , when Sun contributed the source code to the OpenJDK . </P>']
+Doc id itself:  19  MMR-based Neighbor ids:  [1, 10, 11, 18, 3, 0]
+Score and reg score:  0.35932028446442044 0.24430871
+
+=== Final eRAG + Complementarity Evaluation ===
+                            Metric     Score
+          Doc-Level Tau (Original)  0.071362
+     Doc-Level Spearman (Original)  0.091239
+       Doc-Level Tau (Regularized) -0.042937
+  Doc-Level Spearman (Regularized) -0.051727
+        Query-Level Tau (Original)  0.688889
+   Query-Level Spearman (Original)  0.830303
+     Query-Level Tau (Regularized)  0.733333
+Query-Level Spearman (Regularized)  0.903030
+=== GPU Monitoring stopped ===
